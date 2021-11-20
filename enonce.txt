@@ -1,0 +1,5 @@
+Moto et voiture sont des véhicules.
+Un véhicule peut démarrer.
+Une moto et  une voiture  démarre mais de différente manière.
+Un véhicule a une marque et un nom.
+Une moto roule et elle a des méthodes qui lui sont propre tels que freiner() et passerVitesse ()
